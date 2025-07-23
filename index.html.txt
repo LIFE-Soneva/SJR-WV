@@ -20,4 +20,9 @@
             color: #2c3e50;
         }
     </style>
-</hea
+</head>
+<body>
+    <h1>Welcome to Your Island Paradise</h1>
+    <img src="SJRwvilla.jpg" alt="Overwater Villa">
+</body>
+</html>
